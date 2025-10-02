@@ -1,4 +1,0 @@
-pandas
-pymysql
-sqlachemy
-psycopg2
